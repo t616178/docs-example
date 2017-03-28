@@ -1,4 +1,4 @@
 site_name: docs-example
 pages:
-  home: README.md
+- home: README.md
 theme: readthedocs
